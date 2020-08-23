@@ -1,1 +1,1 @@
-的  
+private String name;//这是在master分支中
